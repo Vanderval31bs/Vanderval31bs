@@ -13,6 +13,6 @@ An exploratory analysis project investigating how factors such as company size, 
 ### [A hierarquia causal de espaços-tempos](https://repositorio.ufsc.br/handle/123456789/244209)
 Bachelor's thesis in Mathematics. It consists of a general review of Lorentz geometry and spacetimes, aiming to classify them according to their causal properties through the causal hierarchy. This work falls under the area of Mathematical Physics, specifically General Relativity, and has a strong focus on geometry.
 
-### [Employee Attrition Analysis](EmployeeAttritionAnalysis)
+### [Employee Attrition Analysis](https://github.com/Vanderval31bs/EmployeeAttritionAnalysis)
 Final project for the Machine Learning course at UFSC, aimed at modeling the probability of an employee leaving the company and identifying which variables are important to reduce turnover. Python programming language and libraries such as Scikit-learn, Pandas, NumPy, and Matplotlib were used for exploratory analysis and the creation of the predictive model.
 
