@@ -1,6 +1,6 @@
 ## About Me
 
-I hold a bachelor's degree in Mathematics from UFSC and am currently pursuing a postgraduate degree in Data Science and Analytics at USP. With nearly 5 years of experience in scientific and web software development. I have strong knowledge in SQL, Python, machine learning frameworks, statistics, and models.
+I hold a bachelor's degree in Mathematics from UFSC and am currently pursuing a postgraduate degree in Data Science and Analytics at USP. With nearly 5 years of experience in scientific and web software development, I have experience in C++ using Qt for scientific desktop applications and have expertise in web development with Next.js, React, and TypeScript/JavaScript. Additionally, I have worked on personal projects in data science, which has provided me with strong knowledge in SQL, Python, machine learning models and frameworks, and statistics.
 
 ## Projects
 
