@@ -4,10 +4,10 @@ I hold a bachelor's degree in Mathematics from UFSC and am currently pursuing a 
 
 ## Projects
 
-### ❤️‍🩹 [Cardiovascular Disease Prediction](link_github)
+### ❤️‍🩹 [Cardiovascular Disease Prediction](https://github.com/Vanderval31bs/CardioDiseasePrediction)
 A comprehensive end-to-end project based on a dataset to predict the presence of cardiovascular diseases using machine learning. It includes Exploratory Data Analysis (EDA) with statistical tests, clustering, perceptual map construction, development of an application, and APIs using Flask. The project utilizes Python with libraries like Scikit-learn, NumPy, Pandas, among others. The final model selected was XGBoost, chosen after comparison with other models and fine-tuned using grid search with cross-validation.
 
-### 💼 [Data Industry Jobs And Salaries](link_github)
+### 💼 [Data Industry Jobs And Salaries](https://github.com/Vanderval31bs/DataJobsAndSalaries)
 An exploratory analysis project investigating how factors such as company size, seniority, location, and others influence salaries in the data field. The project is developed in a Python notebook and utilizes libraries for data manipulation and visualization, such as Pandas, NumPy, and Matplotlib.
 
 ### 🌌 [A hierarquia causal de espaços-tempos](https://repositorio.ufsc.br/handle/123456789/244209)
