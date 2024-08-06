@@ -1,6 +1,7 @@
 ## About Me
 
-I hold a bachelor's degree in Mathematics from UFSC and am currently pursuing a postgraduate degree in Data Science and Analytics at USP. With nearly 5 years of experience in scientific and web software development, I have experience in C++ using Qt for scientific desktop applications and have expertise in web development with Next.js, React, and TypeScript/JavaScript. Additionally, I have worked on personal projects in data science, which has provided me with strong knowledge in SQL, Python, machine learning models and frameworks, and statistics.
+I hold a bachelor's degree in Mathematics from UFSC and am currently pursuing a postgraduate degree in Data Science and Analytics at USP. With nearly 5 years of experience in scientific and web software development, I have experience in C++ using Qt for scientific desktop applications and have expertise in web development with Next.js, React, and TypeScript/JavaScript. 
+Throughout my career, I've gained general knowledge in software development, including data structures, algorithms, Git, software design patterns, and best practices for code quality and maintainability. Additionally, I have worked on personal projects in data science, which has provided me with strong knowledge in SQL, Python, machine learning models and frameworks, and statistics.
 
 ## Projects
 
