@@ -16,3 +16,5 @@ Bachelor's thesis in Mathematics. It consists of a general review of Lorentz geo
 ### 📊 [Employee Attrition Analysis](https://github.com/Vanderval31bs/EmployeeAttritionAnalysis)
 Final project for the Machine Learning course at UFSC, aimed at modeling the probability of an employee leaving the company and identifying which variables are important to reduce turnover. Python programming language and libraries such as Scikit-learn, Pandas, NumPy, and Matplotlib were used for exploratory analysis and the creation of the predictive model.
 
+**Note:** This project was completed a long time ago during a Machine Learning course at MTM UFSC. While it reflects my work at that time, I've since grown in my understanding and skills. I plan to revisit and update this project in the future.
+
