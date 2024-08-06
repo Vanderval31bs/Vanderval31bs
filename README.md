@@ -10,7 +10,7 @@ A comprehensive end-to-end project based on a dataset to predict the presence of
 ### 💼 [Data Industry Jobs And Salaries](https://github.com/Vanderval31bs/DataJobsAndSalaries)
 An exploratory analysis project investigating how factors such as company size, seniority, location, and others influence salaries in the data field. The project is developed in a Python notebook and utilizes libraries for data manipulation and visualization, such as Pandas, NumPy, and Matplotlib.
 
-### 🌌 [A hierarquia causal de espaços-tempos](https://repositorio.ufsc.br/handle/123456789/244209)
+### 🌌 [A hierarquia causal de espaços-tempos (The Causal Hierarchy of Spacetimes)](https://repositorio.ufsc.br/handle/123456789/244209)
 Bachelor's thesis in Mathematics. It consists of a general review of Lorentz geometry and spacetimes, aiming to classify them according to their causal properties through the causal hierarchy. This work falls under the area of Mathematical Physics, specifically General Relativity, and has a strong focus on geometry.
 
 ### 📊 [Employee Attrition Analysis](https://github.com/Vanderval31bs/EmployeeAttritionAnalysis)
