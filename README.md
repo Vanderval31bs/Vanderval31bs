@@ -1,9 +1,9 @@
 ## About Me
 
 I hold a bachelor's degree in Mathematics from UFSC and am currently pursuing a postgraduate degree in Data Science and Analytics at USP. With nearly 5 years of experience in software 
-development, I have experience in C++ using the framework Qt for scientific desktop applications and in web development with Next.js, React, and TypeScript/JavaScript. Throughout my career, I've gained general knowledge in programmin, including data structures, algorithms, Git, software design patterns, and best practices for code quality and maintainability. Additionally, I have worked on personal projects in data science, which has provided me with strong knowledge in SQL, Python, machine learning models and frameworks, and statistics.
+development, I have experience in C++ using the framework Qt for scientific desktop applications and in web development with Next.js, React, and TypeScript/JavaScript. Throughout my career, I've gained general knowledge in programming, including data structures, algorithms, Git, software design patterns, and best practices for code quality and maintainability. Additionally, I have worked on personal projects in data science, which has provided me with strong knowledge in SQL, Python, machine learning models and frameworks, and statistics.
 
-## Projects
+## Personal Projects
 
 ### ❤️‍🩹 [Cardiovascular Disease Prediction](https://github.com/Vanderval31bs/CardioDiseasePrediction)
 A comprehensive end-to-end project based on a dataset to predict the presence of cardiovascular diseases using machine learning. It includes Exploratory Data Analysis (EDA) with statistical tests, clustering, perceptual map construction, development of an application, and APIs using Flask. The project utilizes Python with libraries like Scikit-learn, NumPy, Pandas, among others. The final model selected was XGBoost, chosen after comparison with other models and fine-tuned using grid search with cross-validation.
