@@ -11,6 +11,9 @@ An end-to-end project based on a dataset to predict the presence of cardiovascul
 ### 💼 [Data Industry Jobs And Salaries](https://github.com/Vanderval31bs/DataJobsAndSalaries)
 An exploratory analysis project investigating how factors such as company size, seniority, location, and others influence salaries in the data field. The project is developed in a Python notebook and utilizes libraries for data manipulation and visualization, such as Pandas, NumPy, and Matplotlib.
 
+### 🧪 [VJModels](https://github.com/Vanderval31bs/VJModels)
+A collection of my experimental machine learning models. These models are part of my personal exploration in the field, so they might not be fully refined, but they contain some interesting ideas. Feel free to check them out! You can also install the package via [pip](https://pypi.org/project/VJModels/) and incorporate the models into your own projects.
+
 ### 🌌 [A hierarquia causal de espaços-tempos (The Causal Hierarchy of Spacetimes)](https://repositorio.ufsc.br/handle/123456789/244209)
 Bachelor's thesis in Mathematics. It consists of a general review of Lorentz geometry and spacetimes, aiming to classify them according to their causal properties through the causal hierarchy. This work falls under the area of Mathematical Physics, specifically General Relativity, and has a strong focus on geometry.
 
